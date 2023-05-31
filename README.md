@@ -9,4 +9,4 @@ Article Details: Each news article is presented with its headline, summary, date
 # Technologies Used
 HTML: Used for creating the structure and layout of the website.<br/>
 CSS: Utilized for styling the website, ensuring a visually appealing and consistent design.<br/>
-React.js: The website is built using React.js, a popular JavaScript library for building user interfaces. React allows for efficient component-based development and seamless updates to the user interface.<br/>
+JavaScript: A popular JavaScript library is used for building user interfaces that is React Js. React allows for efficient component-based development and seamless updates to the user interface.<br/>
